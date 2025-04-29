@@ -1,0 +1,7 @@
+# main.plugins.banthex.enabled = true
+# main.plugins.banthex.api_key = "ccad0501dcc7fa4fe586484d747b4891"
+# main.plugins.banthex.api_url = "https://banthex.de/wpa/"
+# main.plugins.banthex.download_results = true
+# main.plugins.banthex.whitelist = [
+    "Luiza e Leco"
+]

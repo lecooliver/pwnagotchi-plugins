@@ -1,0 +1,5 @@
+main.plugins.ohcapi.enabled = true
+main.plugins.ohcapi.api_key = "sk_1296d63c3363d103a9c2c6691bb099dd"
+main.plugins.ohcapi.email = "leco.oliver@gmail.com"
+main.plugins.ohcapi.receive_email = "yes"
+main.plugins.ohcapi.sleep = 3600

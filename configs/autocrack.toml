@@ -1,0 +1,2 @@
+main.plugins.autocrack.enabled = false
+main.plugins.autocrack.wordlist = "/home/pi/wordlists/rockyou.txt"

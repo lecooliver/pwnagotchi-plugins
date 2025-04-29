@@ -1,0 +1,17 @@
+ui.display.enabled = true
+ui.cursor = false
+ui.display.color = "black"
+ui.display.rotation = 180
+ui.display.type = "waveshare2in13v3"
+ui.font.name = "DejaVuSansMono"
+ui.font.size_offset = 0
+ui.fps = 0.5
+ui.invert = true
+ui.web.enabled = true
+ui.web.address = "::"
+ui.web.auth = true
+ui.web.on_frame = ""
+ui.web.origin = ""
+ui.web.password = "!@0103lEcO@!"
+ui.web.port = 8080
+ui.web.username = "lecooliver"

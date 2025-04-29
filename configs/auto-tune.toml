@@ -1,0 +1,4 @@
+main.plugins.auto-tune.enabled = true
+main.plugins.auto-tune.show_hidden = false
+main.plugins.auto-tune.reset_history = true
+main.plugins.auto-tune.extra_channels = 15

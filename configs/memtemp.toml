@@ -1,0 +1,3 @@
+main.plugins.memtemp.enabled = false
+main.plugins.memtemp.orientation = "horizontal"
+main.plugins.memtemp.scale = "celsius"

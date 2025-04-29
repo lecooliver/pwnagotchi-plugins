@@ -1,0 +1,5 @@
+main.plugins.better_quickdic.enabled = true
+main.plugins.better_quickdic.face = "(·ω·)"
+main.plugins.better_quickdic.wordlist_folder = "/home/pi/wordlists/"
+main.plugins.better_quickdic.api = ""
+main.plugins.better_quickdic.id = ""

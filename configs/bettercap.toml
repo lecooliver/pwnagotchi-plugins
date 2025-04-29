@@ -1,0 +1,20 @@
+bettercap.handshakes = "/home/pi/handshakes"
+bettercap.hostname = "localhost"
+bettercap.port = 8081
+bettercap.scheme = "http"
+bettercap.silence = [
+ "ble.device.new",
+ "ble.device.lost",
+ "ble.device.disconnected",
+ "ble.device.connected",
+ "ble.device.service.discovered",
+ "ble.device.characteristic.discovered",
+ "wifi.client.new",
+ "wifi.client.lost",
+ "wifi.client.probe",
+ "wifi.ap.new",
+ "wifi.ap.lost",
+ "mod.started",
+]
+bettercap.username = "pwnagotchi"
+bettercap.password = "pwnagotchi"

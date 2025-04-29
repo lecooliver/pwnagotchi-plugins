@@ -1,0 +1,2 @@
+main.plugins.cuff.enabled = false
+main.plugins.cuff.whitelist = ""

@@ -1,0 +1,7 @@
+main.plugins.autopeering.enabled = true
+main.plugins.autopeering.interfaces = [ "wlan0", "wlan0mon",]
+main.plugins.autopeering.peers = [
+ [ "Bruce",],
+ [ "Minigotchi",],
+ [ "Palnagotchi",],
+]

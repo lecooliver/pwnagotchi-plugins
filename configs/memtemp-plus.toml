@@ -1,0 +1,6 @@
+main.plugins.memtemp-plus.enabled = true
+main.plugins.memtemp-plus.fields = "mem,cpu,temp"
+main.plugins.memtemp-plus.linespacing = 13
+main.plugins.memtemp-plus.orientation = "horizontal"
+main.plugins.memtemp-plus.position = "172,82"
+main.plugins.memtemp-plus.scale = "celsius"

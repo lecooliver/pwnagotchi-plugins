@@ -1,0 +1,3 @@
+main.plugins.wigle.enabled = true
+main.plugins.wigle.api_key = "cddf91342a67ccd0da6905fe9c19708c"
+main.plugins.wigle.donate = false

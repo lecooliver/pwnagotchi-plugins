@@ -1,0 +1,3 @@
+main.plugins.pwndroid.enabled = true
+main.plugins.pwndroid.display = true
+main.plugins.pwndroid.display_altitude = true

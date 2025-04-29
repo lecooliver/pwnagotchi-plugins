@@ -1,0 +1,14 @@
+fs.memory.enabled = true
+fs.memory.mounts.log.enabled = true
+fs.memory.mounts.log.mount = "/etc/pwnagotchi/log/"
+fs.memory.mounts.log.rsync = true
+fs.memory.mounts.log.size = "50M"
+fs.memory.mounts.log.sync = 60
+fs.memory.mounts.log.zram = true
+
+fs.memory.mounts.data.enabled = true
+fs.memory.mounts.data.mount = "/var/tmp/pwnagotchi"
+fs.memory.mounts.data.rsync = true
+fs.memory.mounts.data.size = "10M"
+fs.memory.mounts.data.sync = 3600
+fs.memory.mounts.data.zram = true

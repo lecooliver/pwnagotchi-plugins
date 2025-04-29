@@ -1,0 +1,2 @@
+main.plugins.battery.enabled = false
+main.plugins.battery.warn_level = 20

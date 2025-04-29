@@ -1,0 +1,38 @@
+main.confd = "/etc/pwnagotchi/conf.d/"
+main.custom_plugins = "/usr/local/share/pwnagotchi/custom-plugins/"
+main.custom_plugin_repos = [
+ "https://github.com/jayofelony/pwnagotchi-torch-plugins/archive/master.zip",
+ "https://github.com/Sniffleupagus/pwnagotchi_plugins/archive/master.zip",
+ "https://github.com/NeonLightning/pwny/archive/master.zip",
+ "https://github.com/marbasec/UPSLite_Plugin_1_3/archive/master.zip",
+ "https://github.com/wpa-2/Pwnagotchi-Plugins/archive/master.zip",
+ "https://github.com/PwnPeter/pwnagotchi-plugins/archive/master.zip",
+ "https://github.com/lecooliver/pwnagotchi-plugins/archive/master.zip",
+]
+main.dry_run = false
+main.iface = "wlan0mon"
+main.lang = "pt-br"
+main.log.path = "/etc/pwnagotchi/log/pwnagotchi.log"
+main.log.path-debug = "/etc/pwnagotchi/log/pwnagotchi-debug.log"
+main.log.rotation.enabled = true
+main.log.rotation.size = "10M"
+main.log_level = "info"
+main.mode = "ai"
+main.mon_max_blind_epochs = 5
+main.mon_start_cmd = "/usr/bin/monstart"
+main.mon_stop_cmd = "/usr/bin/monstop"
+main.name = "Chupacabra"
+main.no_restart = false
+main.recognize_faces = true
+main.whitelist = [
+ "Luiza e Leco",
+ "30:de:4b:85:32:44",
+ "30:de:4b:85:32:46",
+ "30:de:4b:85:32:74",
+ "30:de:4b:85:32:76",
+ "Luiza e Leco S",
+ "Luiza e Leco S_5.8Ghz",
+ "f4:6f:ed:ae:2b:58",
+ "PSMobile_lecoo010",
+ "ba:07:17:91:2f:80",
+]

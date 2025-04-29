@@ -1,0 +1,3 @@
+main.plugins.pisugarx.enabled = false
+main.plugins.pisugarx.rotation = false
+main.plugins.pisugarx.default_display = "percentage"

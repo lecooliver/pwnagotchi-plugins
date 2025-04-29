@@ -1,0 +1,5 @@
+main.plugins.wpa-sec.enabled = true
+main.plugins.wpa-sec.api_key = "ccad0501dcc7fa4fe586484d747b4891"
+main.plugins.wpa-sec.api_url = "https://wpa-sec.stanev.org"
+main.plugins.wpa-sec.download_results = true
+main.plugins.wpa-sec.show_pwd = true

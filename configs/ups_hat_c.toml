@@ -1,0 +1,5 @@
+main.plugins.ups_hat_c.enabled = false
+main.plugins.ups_hat_c.label_on = true
+main.plugins.ups_hat_c.shutdown = 5
+main.plugins.ups_hat_c.bat_x_coord = 140
+main.plugins.ups_hat_c.bat_y_coord = 0

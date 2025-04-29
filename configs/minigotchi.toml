@@ -1,0 +1,5 @@
+main.plugins.minigotchi.enabled = false
+main.plugins.minigotchi.baud_rate = 115200
+main.plugins.minigotchi.serial_port = "/dev/ttyS0"
+main.plugins.minigotchi.read_timeout = 5
+main.plugins.minigotchi.write_timeout = 5
